@@ -1,11 +1,10 @@
 This is a small application made by React and React hooks.
 
 Users can:
--Search a movie and view details about a movie;
+- Search a movie and view details about a movie;
 - Rate movies;
-- Add movies to the watched list;
--Remove movies from the watched list;
--View average imdb and user's rating for watched movies;
+- Add movies to the watched list;-Remove movies from the watched list;
+- View average imdb and user's rating for watched movies;
 
 ### Screenshot
 
