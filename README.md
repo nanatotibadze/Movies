@@ -16,7 +16,7 @@ Users can:
 
 ### Links
 
-- Live Site URL: https://vercel.com/nanatotibadze/movies-list
+- Live Site URL: https://movies-list-gray.vercel.app/
 
 ## My process
 
