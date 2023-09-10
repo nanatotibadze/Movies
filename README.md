@@ -11,7 +11,8 @@ Users can:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+!![hobbit](https://github.com/nanatotibadze/Movies/assets/106735126/2653b53a-bee9-4769-9847-90d754f772b2)
+[](./screenshot.jpg)
 
 ### Links
 
