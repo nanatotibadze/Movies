@@ -11,9 +11,10 @@ Users can:
 
 ### Screenshot
 
-!![hobbit](https://github.com/nanatotibadze/Movies/assets/106735126/2653b53a-bee9-4769-9847-90d754f772b2)
+![hobbit](https://github.com/nanatotibadze/Movies/assets/106735126/2653b53a-bee9-4769-9847-90d754f772b2)
 [](./screenshot.jpg)
-![hobbit 2](https://github.com/nanatotibadze/Movies/assets/106735126/cb7b59d0-6a96-47ec-8d53-e389b5c367d6)
+
+![hobbit 2](https://github.com/nanatotibadze/Movies/assets/106735126/cb7b59d0-6a96-47ec-8d53-e389b5c367d6)[](./screenshot.jpg)
 
 ### Links
 
